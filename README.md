@@ -26,4 +26,5 @@
 - [ ] 代码括号彩虹色 -- Bracket Pair Colorizer 2
 - [ ] 首尾标签自动同步修改 -- Auto Rename Tag
 - [ ] 自动路径补全 -- Path Intellisense
+- [ ] 代码执行调试工具 -- Code Runner
 
