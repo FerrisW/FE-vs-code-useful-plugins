@@ -27,4 +27,13 @@
 - [ ] 首尾标签自动同步修改 -- Auto Rename Tag
 - [ ] 自动路径补全 -- Path Intellisense
 - [ ] 代码执行调试工具 -- Code Runner
+- [ ] vs code icons大全 -- vscode-icons
+- [ ] 设置当前IDE透明度 -- Windows opacity
+- [ ] 智能编码提示 -- Visual Studio IntelliCode
+- [ ] 项目管理 -- Project Manager
+- [ ] 文件在默认浏览器中打开 -- open in browser
+- [ ] vs code主题 -- Material Theme
+- [ ] 远程实时协作开发 -- Live Share
+- [ ] 样式文件格式化工具 -- formate:CSS/LESS/SCSS formatter
+- [ ] 社区vs code主题 -- Community Material Theme
 
